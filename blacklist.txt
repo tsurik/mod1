@@ -57,39 +57,39 @@ Tito_Martino | Неадекватное поведение | 1 степень | 
 Milka_Puwer | Неадекватное поведение | 1 степень | Derek Hale
 Dmitri_Uvin | Неадекватное поведение | 1 степень | Derek Hale
 Tobby_Magvaer | Прогул рабочего дня | 1 степень | Derek Hale
-Yuto Sakurai | Нападение на гражданских | 1 степень | Andy Queenston
-Yukio Sakyrai | Нападение на гражданских | 1 степень | Andy Queenston
-Jackson Davidson | Не прошел исп.срок | 1 степень | Andy Queenston
-Amato Carlini | Увольнение после 1 зарплаты | 1 степень | Andy Queenston
-Darius Cassini | Увольнение после 1 зарплаты | 1 степень | Andy Queenston
-Don DeBona | Увольнение после 1 зарплаты | 1 степень | Andy Queenston
-Nastya Navalova | Увольнение после 1 зарплаты | 1 степень | Andy Queenston
-Sultan Heyderov | Прогул раб.дня | 1 степень | Andy Queenston
-John Grost | Нападение | 1 степень | Andy Queenston
-Egor Panin | Не прошел исп.срок | 1 степень | Andy Queenston
-Denis Uteshev | Не прошел исп.срок | 1 степень | Andy Queenston
-Oleg Antonov | Стрельба | 1 степень | Andy Queenston
-Gosha Shklayrov | Неадекватное поведение | 1 степень | William Hale
-Denny Dallas | Оскорбление гражданских | 1 степень | Christopher Grava
-Valentin Kovtun | Не прошёл исп. срок | 1 степень | Christopher Grava
-Kir Bulahev | Не прошёл исп. срок | 1 степень | Christopher Grava
-Antonio Rossi | Не прошёл исп. срок | 1 степень | Christopher Grava
-Jeyson Edge | Не прошёл исп. срок | 1 степень | Christopher Grava
-Griss Vashinkton | Не прошёл исп. срок | 1 степень | Christopher Grava
-Fred Milton | Нападение на гражданских | 1 степень | Igor Prizrak
-Alberto Richi | Неадекватность | 1 степень | Igor Prizrak
-Marcus Henry | Нападение на гражданских | 1 степень | Igor Prizrak
-Kelvin Makormik | Нападение на гражданских | 1 степень | Igor Prizrak
-Easy Fox | Не прошёл исп.срок | 1 степень | Igor Prizrak
-Nikita Fresh | Нападение на гражданских | 1 степень | Igor Prizrak
-Andrey Efimovich | Нападение на гражданских | 1 степень | Igor Prizrak
-Wiz Howard | Не прошёл исп.срок | 1 степень | Igor Prizrak
-Raffael Hernandez | Не прошёл исп.срок | 1 степень | Igor Prizrak
-Jenya Nekludov | Не прошёл исп.срок | 1 степень | Igor Prizrak
-Matvey Umanskiy | Не прошёл исп.срок | 1 степень | Igor Prizrak
-Vettorio Clemente | Не прошёл исп.срок | 1 степень | Igor Prizrak
-Tai Tanaka | Не прошёл исп.срок | 1 степень | Igor Prizrak
-Jason Sanchez | Нападение на коллег | 1 степень | Igor Prizrak
+Yuto_Sakurai | Нападение на гражданских | 1 степень | Andy Queenston
+Yukio_Sakyrai | Нападение на гражданских | 1 степень | Andy Queenston
+Jackson_Davidson | Не прошел исп.срок | 1 степень | Andy Queenston
+Amato_Carlini | Увольнение после 1 зарплаты | 1 степень | Andy Queenston
+Darius_Cassini | Увольнение после 1 зарплаты | 1 степень | Andy Queenston
+Don_DeBona | Увольнение после 1 зарплаты | 1 степень | Andy Queenston
+Nastya_Navalova | Увольнение после 1 зарплаты | 1 степень | Andy Queenston
+Sultan_Heyderov | Прогул раб.дня | 1 степень | Andy Queenston
+John_Grost | Нападение | 1 степень | Andy Queenston
+Egor_Panin | Не прошел исп.срок | 1 степень | Andy Queenston
+Denis_Uteshev | Не прошел исп.срок | 1 степень | Andy Queenston
+Oleg_Antonov | Стрельба | 1 степень | Andy Queenston
+Gosha_Shklayrov | Неадекватное поведение | 1 степень | William Hale
+Denny_Dallas | Оскорбление гражданских | 1 степень | Christopher Grava
+Valentin_Kovtun | Не прошёл исп. срок | 1 степень | Christopher Grava
+Kir_Bulahev | Не прошёл исп. срок | 1 степень | Christopher Grava
+Antonio_Rossi | Не прошёл исп. срок | 1 степень | Christopher Grava
+Jeyson_Edge | Не прошёл исп. срок | 1 степень | Christopher Grava
+Griss_Vashinkton | Не прошёл исп. срок | 1 степень | Christopher Grava
+Fred_Milton | Нападение на гражданских | 1 степень | Igor Prizrak
+Alberto_Richi | Неадекватность | 1 степень | Igor Prizrak
+Marcus_Henry | Нападение на гражданских | 1 степень | Igor Prizrak
+Kelvin_Makormik | Нападение на гражданских | 1 степень | Igor Prizrak
+Easy_Fox | Не прошёл исп.срок | 1 степень | Igor Prizrak
+Nikita_Fresh | Нападение на гражданских | 1 степень | Igor Prizrak
+Andrey_Efimovich | Нападение на гражданских | 1 степень | Igor Prizrak
+Wiz_Howard | Не прошёл исп.срок | 1 степень | Igor Prizrak
+Raffael_Hernandez | Не прошёл исп.срок | 1 степень | Igor Prizrak
+Jenya_Nekludov | Не прошёл исп.срок | 1 степень | Igor Prizrak
+Matvey_Umanskiy | Не прошёл исп.срок | 1 степень | Igor Prizrak
+Vettorio_Clemente | Не прошёл исп.срок | 1 степень | Igor Prizrak
+Tai_Tanaka | Не прошёл исп.срок | 1 степень | Igor Prizrak
+Jason_Sanchez | Нападение на коллег | 1 степень | Igor Prizrak
 Denches Ashanov | Не прошёл исп.срок | 1 степень | Igor Prizrak
 Abdul Anverovitch | Не прошёл исп.срок | 1 степень | Igor Prizrak
 Carlo Gambino | Не прошёл исп.срок | 1 степень | Igor Prizrak
